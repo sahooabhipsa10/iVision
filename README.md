@@ -20,9 +20,9 @@ Animals
 
   
 **Challenges we ran into:**
-=>When installing and running software, libraries, and other components, we encountered numerous issues.
-=>Many errors were made while working on this project.
-=>The challenge of training the model was challenging. mAP@50 - 66.7 is our current Mean Average Precision.
+=>When installing and running software, libraries, and other components, we encountered numerous issues.<br />
+=>Many errors were made while working on this project.<br />
+=>The challenge of training the model was challenging. mAP@50 - 66.7 is our current Mean Average Precision.<br />
 
 
 **Languages and Tools:**  
