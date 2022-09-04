@@ -4,7 +4,7 @@
  **About us:**
 
 Blindness is a very common and unendurable disability among many disabilities. According to the World Health Organization(WHO), there are 285 million visually impaired people. The proposed iVision (Visually Impaired) Assistant System is developed to assist visually impaired people. 
-Our proposed system uses Tiny-YoloV3, trained using COCO dataset. At present it can detect 80 classes. We have used imageAI and openCV to detect, predict and pipeline the results to our frontend.<br />
+Our proposed system uses Tiny-YoloV3 using COCO dataset. At present it can detect 80 classes. We have used imageAI and openCV to detect, predict and pipeline the results to our frontend.<br />
 Our Mean Average Precision (mAP@50) is 66.7<br />
 
 **Device Features:**
@@ -20,9 +20,9 @@ Animals<br />
 
   
 **Challenges we ran into:**<br />
-=>When installing and running software, libraries, and other components, we encountered numerous issues.<br />
-=>Many errors were made while working on this project.<br />
-=>The challenge of training the model was challenging. mAP@50 - 66.7 is our current Mean Average Precision.<br />
+=>Dependency Incompabilities.<br />
+=>Deploying the model.<br />
+=>Conversion to .tflite. mAP@50 - 66.7 is our current Mean Average Precision.<br />
 
 
 **Languages and Tools:**  
