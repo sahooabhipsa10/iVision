@@ -37,6 +37,7 @@ Animals
 To Run:
 
 Step 1: pip instal -r requirement.txt
+<br />
 Step 2: wget https://drive.google.com/file/d/15YQqbp5iPCX3Rcvf7CFdZX_OfjuqfOiB/view?usp=sharing
 
 
