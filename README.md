@@ -15,7 +15,9 @@ Vehicles
 Animals
 
 
-  <img align="right" alt="GIF" src="https://drive.google.com/file/d/1XBg1fo7FnGuYEWZ06bOr1uWqmmdsTilb/view?usp=sharing" width="500" height="320" />
+
+![WhatsApp Image 2022-09-03 at 12 25 57 PM](https://user-images.githubusercontent.com/99355886/188301438-66d30fa1-f3ba-4336-8d33-261209a0b8c5.jpeg)
+
   
 **Challenges we ran into:**
 =>When installing and running software, libraries, and other components, we encountered numerous issues.
@@ -38,8 +40,6 @@ Step 1: pip instal -r requirement.txt
 Step 2: wget https://drive.google.com/file/d/15YQqbp5iPCX3Rcvf7CFdZX_OfjuqfOiB/view?usp=sharing
 
 
-
-https://drive.google.com/file/d/15YQqbp5iPCX3Rcvf7CFdZX_OfjuqfOiB/view?usp=sharing
 
 
 
