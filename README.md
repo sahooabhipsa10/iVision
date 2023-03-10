@@ -7,12 +7,13 @@ Our proposed system uses Tiny-YoloV3 using COCO dataset. At present it can detec
 The Mean Average Precision (mAP@50) is 66.7<br />
 
 **Device Features:**
-=> Detect People and Objects in front <br />
-** Object Detection** like<br />
+=> Detect People and Objects in front such as: <br />
 
 Vehicles<br />
 Animals<br />
 Obstructions in Streets<br />
+ 
+=> Audio alert for the object that is detected
 
 
 
